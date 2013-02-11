@@ -1,3 +1,5 @@
 =Requisitos=
 
-==R01==
+==R01 - Cadastro de Cliente==
+
+==R02 - Cadastro de Funcionário==

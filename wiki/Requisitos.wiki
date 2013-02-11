@@ -6,4 +6,4 @@
 
 ==R03 - Pagamento de Mensalidade==
 
-==R04 = Confimação de Pagamento de Mensalidade==
+==R04 - Confimação de Pagamento de Mensalidade==

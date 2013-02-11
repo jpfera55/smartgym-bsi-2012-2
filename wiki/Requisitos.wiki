@@ -3,3 +3,7 @@
 ==R01 - Cadastro de Cliente==
 
 ==R02 - Cadastro de Funcionário==
+
+==R03 - Pagamento de Mensalidade==
+
+==R04 = Confimação de Pagamento de Mensalidade==

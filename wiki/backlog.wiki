@@ -1,12 +1,30 @@
-||Eu como||Quero||Para||Complemento||
-||Aluno||	Ver meu histórico de pagamentos.||	Ter conhecimento dos pagamentos que já fiz.||	Deve ser enviado por email o formulário do histórico.||
-||Aluno||	Receber lembretes de pagamentos atrasados.||	Manter meus pagamentos em dia.||	Recebimento por email e diretamente no programa||
-||Aluno||	Receber comprovação depagamento efetuado.||	Ter registro dos pagamentos que já fiz.||	Recebimento por email, após validação do Admin||
-||Admin||	Ver históricos de pagamentos dos alunos.||	Ter controle das finanças como um todo.|| ||	
-||Admin	||Gerenciar cadastros de alunos.||	Ter controle dos alunos da academia.||	Cadastro, edição e deleção de alunos||
-||Admin||	Visualizar avisos de pagamentos atrasados.||	Ter controle da inadimplência da academia.||	Visualização em tela||
-||Admin||	Enviar emails aos alunos através do programa.||	Ter contato direto com os alunos, mesmo quanto esses estiverem fora da academia.||	O email do aluno deve ser incluído no cadastro||
-||Admin||	Receber emails dos alunos através do sistema.||	Agregar as mensagens recebidas em email institucional.||	Deve ser feito um email institucional (servidor de email a definir)||
-||Admin||	Ver gráficos de finanças de acordo com o período definido.||	Acompanhar o crescimento e/ou decrescimento das finanças .||	Gerar gráficos salvos em imagens ou diretamento pelo sistema||
-||Admin||	Validar pagamentos efetuados.||	Controlar manualmente os pagamentos feitos.|| ||	
-||Admin||	Visualizar lista que mostre a relação dos alunos com seus dias de pagamento||	Ter noção do pagamentos que estão por vir	|| ||
+#labels backlog,requisitos
+_*OBS:*Os backlogs estão organizados em sessões, de acordo com o ator principal do backlog._
+
+----
+
+==Aluno==
+
+||QUERO||PARA||COMPLEMENTO|| 
+||Receber por email meu histórico de pagamentos ||Ter ciência e registro de meus pagamentos||Relatório deve ser requisitado ao administrador e/ou funcionário||
+||Receber por email comprovante de pagamento efetuado||Possuir documento que comprove meu pagamento, além do canhoto de papel||Deve ser fornecido um código único para identificar cada comprovante||
+||Receber por email lembrete de atraso na(s) mensalidade(s)||Deixar aluno ciente de suas pendências financeiras com a academia||||
+
+
+
+==Funcionário==
+
+||QUERO||PARA||COMPLEMENTO|| 
+||Gerenciar cadastros de alunos|| Automatizar os registros de alunos || Adicionar, visualizar e editar dados cadastrais ||
+||Submenter pagamentos recebidos|| Otimizar a tarefa de recebimentos de mensalidades || Ainda deve ser mantido o antigo canhoto de papel ||
+
+==Administrador==
+
+||Ser alertado a respeito de pagamentos atrasados||Ter controle da inadimplência || Os alertas são feitos em tela do programa, em área específica ||
+||Gerenciar cadastros||Ter conntrole total dos que estão envolvidos com a academia ||Adicionar, visualizar, editar, deletar alunos e/ou funcionários, bem como tirar e conceder privilégios a cadastrados no sistema ||
+||Visualizar relatórios financeiros completos em relação a determinado período desejado||Ter controle das finanças||Entenda-se como completo o relatório que apresenta dados estatísticos relevantes (e compreensíveis ao admin) como níveis de inadinplência e faturamento do período escolhido. A representação gráfica é essencial||
+||Visualizar a relação dos alunos com seus dias de pagamento||Ter noção do pagamentos que estão por vir||Dicutir forma de apresentação de tal relação||
+||Validar pagamentos efetuados||Ter ciência sobre todos os pagamentos que são efetuados e evitar fraudes|| ||
+||Visualizar histórico financeiros dos alunos individualmente||Possuir controle mais preciso dos pagamentos de cada aluno|| ||
+||Enviar emails aos alunos através do programa.||Ter contato direto com os alunos, mesmo quanto estes estiverem fora da academia.|| ||
+||Receber emails dos alunos através do sistema.||	Agregar as mensagens recebidas em email institucional.|| ||

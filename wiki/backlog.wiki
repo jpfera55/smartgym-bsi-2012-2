@@ -7,7 +7,7 @@ _*OBS:*Os backlogs estão organizados em sessões, de acordo com o ator principa
 
 ||QUERO||PARA||COMPLEMENTO|| 
 ||Receber por email meu histórico de pagamentos ||Ter ciência e registro de meus pagamentos||Relatório deve ser requisitado ao administrador e/ou funcionário||
-||Receber por email comprovante de pagamento efetuado||Possuir documento que comprove meu pagamento, além do canhoto de papel||Deve ser fornecido um código único para identificar cada comprovante||
+||Receber comprovante impresso de pagamento efetuado||Possuir documento que comprove meu pagamento||Deve ser fornecido um código único para identificar cada comprovante||
 ||Receber por email lembrete de atraso na(s) mensalidade(s)||Deixar aluno ciente de suas pendências financeiras com a academia||||
 
 
@@ -16,7 +16,7 @@ _*OBS:*Os backlogs estão organizados em sessões, de acordo com o ator principa
 
 ||QUERO||PARA||COMPLEMENTO|| 
 ||Gerenciar cadastros de alunos|| Automatizar os registros de alunos || Adicionar, visualizar e editar dados cadastrais ||
-||Submenter pagamentos recebidos|| Otimizar a tarefa de recebimentos de mensalidades || Ainda deve ser mantido o antigo canhoto de papel ||
+||Submenter pagamentos recebidos|| Otimizar a tarefa de recebimentos de mensalidades ||  ||
 
 ==Administrador==
 

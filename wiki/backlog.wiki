@@ -1,0 +1,12 @@
+||Eu como||Quero||Para||Complemento||
+||Aluno||	Ver meu histórico de pagamentos.||	Ter conhecimento dos pagamentos que já fiz.||	Deve ser enviado por email o formulário do histórico.||
+||Aluno||	Receber lembretes de pagamentos atrasados.||	Manter meus pagamentos em dia.||	Recebimento por email e diretamente no programa||
+||Aluno||	Receber comprovação depagamento efetuado.||	Ter registro dos pagamentos que já fiz.||	Recebimento por email, após validação do Admin||
+||Admin||	Ver históricos de pagamentos dos alunos.||	Ter controle das finanças como um todo.|| ||	
+||Admin	||Gerenciar cadastros de alunos.||	Ter controle dos alunos da academia.||	Cadastro, edição e deleção de alunos||
+||Admin||	Visualizar avisos de pagamentos atrasados.||	Ter controle da inadimplência da academia.||	Visualização em tela||
+||Admin||	Enviar emails aos alunos através do programa.||	Ter contato direto com os alunos, mesmo quanto esses estiverem fora da academia.||	O email do aluno deve ser incluído no cadastro||
+||Admin||	Receber emails dos alunos através do sistema.||	Agregar as mensagens recebidas em email institucional.||	Deve ser feito um email institucional (servidor de email a definir)||
+||Admin||	Ver gráficos de finanças de acordo com o período definido.||	Acompanhar o crescimento e/ou decrescimento das finanças .||	Gerar gráficos salvos em imagens ou diretamento pelo sistema||
+||Admin||	Validar pagamentos efetuados.||	Controlar manualmente os pagamentos feitos.|| ||	
+||Admin||	Visualizar lista que mostre a relação dos alunos com seus dias de pagamento||	Ter noção do pagamentos que estão por vir	|| ||

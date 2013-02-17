@@ -4,7 +4,7 @@
  * Aluno
  * Dono da academia
 
-=Definição de papeis:=
+=Definição de papeis=
 
 ==Funcionário:== 
 

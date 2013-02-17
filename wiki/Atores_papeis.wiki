@@ -7,4 +7,4 @@ Ator passivo (exerce atividade indireta no sistema) do sistema, responsável por
 ===Funcionário:===
 Ator ativo (exerce atividade direta no sistema) do sistema, responsável por realizar atividades de cadastros de novo usuários, edição de dados cadastrais e submissão de pagamentos dos alunos. Este ator só pode ser cadastrado por um Administrador e representa um professor (_personal trainer_) da academia.
 ===Administrador===
-Ator ativo do sistema, possui todos os privilégios possíveis que tangem as funcionalidades do sistema. Este ator representa o(s) dono(s) da academia, bem como socios da mesma.
+Ator ativo do sistema, possui todos os privilégios possíveis que tangem as funcionalidades do sistema. Este ator representa o(s) dono(s) da academia, bem como o(s) socio(s) da mesma.

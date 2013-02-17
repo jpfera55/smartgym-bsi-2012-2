@@ -1,3 +1,4 @@
+#labels papeis,ator,funções
 ==Descrição dos atores do sistema e seus papeis==
 ----
 

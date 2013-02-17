@@ -1,6 +1,6 @@
 #labels visão,geral,documento,descrição
 =Documento de visão geral do sistema=
-==SmartGym Manager==
+== SmartGym Manager ==
 ¹Carlos Eduardo, ²Augusto F. Melo
 
 ----

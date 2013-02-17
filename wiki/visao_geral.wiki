@@ -11,5 +11,5 @@ O pagamentos deverão ser efetuados pelos alunos de forma convencional (entrega 
 
 A validação dos pagamentos deve ser feita da maneira mais simples possível, apenas indicando que o alunos efetuou o pagamento do mês, sem que haja necessidade de incluir qualquer dado que não os referentes à busca que será efetuada para encontrar o registro do aluno.
 
-Além das funcionalidades básicas apresentadas, o sistema deve enviar emails aos alunos, com informações a respeito de pagamentos pendentes, atrasados, efetuados, bem como gerar um canal de contato direto com os alunos entre Administrador e alunos, também por email, de maneira a permitir que sejam enviados emails manuais aos alunos e estes também terem possibilidades de fazer o mesmo em ralação ao Administrador.
+Além das funcionalidades básicas apresentadas, o sistema deve enviar emails aos alunos, com informações a respeito de pagamentos pendentes, atrasados, efetuados, bem como gerar um canal de contato direto com os alunos entre Administrador e alunos, também por email, de maneira a permitir que sejam enviados emails manuais aos alunos e estes também terem possibilidades de fazer o mesmo em relação ao Administrador.
 	

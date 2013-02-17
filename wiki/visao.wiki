@@ -1,0 +1,37 @@
+=Atores:=
+
+ * Funcionário
+ * Aluno
+ * Dono da academia
+
+=Definição de papeis:=
+
+==Funcionário:== 
+
+ * Submeter pagamentos dos alunos
+ * Emitir relatório de pagamentos de alunos
+ * Editar dados cadastrais de alunos
+ * Cadastrar alunos
+
+==Dono da academia:==
+
+ * Privilégios de funcionário
+ * Validar pagamentos
+ * Excluir registros de alunos
+ * Enviar emails aos alunos
+ * Alterar valor das mensalidades
+ * Gerenciar funcionários
+
+
+==Requisitos Funcionais:==
+
+ * Gerenciar Usuários
+ * Gerenciar mensalidades
+ * Enviar email aos alunos
+ * Emitir relatórios financeiros com base no período
+
+==Requisitos Não-funcionais:==
+
+ * Funcionar em Intranet
+ * Autenticação de usuário
+ * Impressão de Comprovante de Pagamento

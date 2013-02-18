@@ -1,0 +1,12 @@
+==Ambiente de Desenvolvimento= 
+ * NetBeans 7.1 
+
+==Linguagem de Programação==
+ * Java 1.6
+
+==Frameworks==
+ * Hirbenate
+
+==Banco de Dados==
+ * MySQL
+

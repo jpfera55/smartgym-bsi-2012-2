@@ -29,3 +29,4 @@ _*OBS:*Os backlogs estão organizados em sessões, de acordo com o ator principa
 ||Visualizar histórico financeiros dos alunos individualmente||Possuir controle mais preciso dos pagamentos de cada aluno|| ||
 ||Enviar emails aos alunos através do programa.||Ter contato direto com os alunos, mesmo quanto estes estiverem fora da academia.|| ||
 ||Receber emails dos alunos através do sistema.||	Agregar as mensagens recebidas em email institucional.|| ||
+||Visualizar log de atividades realizadas no sistema||Monitorar o que ocorre no sistema || ||

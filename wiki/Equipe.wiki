@@ -1,6 +1,6 @@
 =Equipe=
 
-||Integrante||Especialidade||Função||
+||INTREGRANTE||ESPECIALIDADE||FUNÇÃO||
 ||Augusto F. Melo ||Modelagem de dados|| modelagem, programação, testes ||
 ||Carlos Eduardo  ||Desenvolvimento|| modelagem, programação, testes ||
 

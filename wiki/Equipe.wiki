@@ -1,0 +1,15 @@
+=Equipe=
+
+||Integrante||Especialidade||Função||
+||Augusto F. Melo ||Modelagem de dados|| modelagem, programação, testes ||
+||Carlos Eduardo  ||Desenvolvimento|| modelagem, programação, testes ||
+
+=Professores=
+
+*Wylliams Barbosa* - Análise de Projeto de Sistemas de Informação
+
+----
+
+=Orientações Externas=
+
+=Referências Externas=

@@ -1,4 +1,7 @@
-Modelo conceitual OO
-
-
-http://code.google.com/p/smartgym-bsi-2012-2/source/browse/trunk/SmartGym/doc/Coiceitual%20Model.jpg
+#labels diagramas,modelagem,smartgym
+=Modelo conceitual OO=
+[http://smartgym-bsi-2012-2.googlecode.com/svn/trunk/SmartGym/doc/Coiceitual%20Model.jpg]
+----
+=Diagrama EER=
+[http://smartgym-bsi-2012-2.googlecode.com/svn/trunk/SmartGym/doc/EER%20Model.png]
+----

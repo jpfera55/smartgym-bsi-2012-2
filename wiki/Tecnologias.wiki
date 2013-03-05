@@ -6,6 +6,9 @@
 ==Linguagem de Programação==
  * Java 1.6
 
+==GUI==
+ * Swing Interface
+
 ==Frameworks==
  * Hirbenate
 

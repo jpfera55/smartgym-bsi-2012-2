@@ -1,17 +1,17 @@
 ===Cadastro===
-[http://smartgym-bsi-2012-2.googlecode.com/svn/trunk/SmartGym/doc/Telas/Cadastro%20Pessoa.png cadastro]
+[http://smartgym-bsi-2012-2.googlecode.com/svn/trunk/SmartGym/doc/Telas/Cadastro%20Pessoa.png]
 
 ===Edição de cadastro===
-[http://smartgym-bsi-2012-2.googlecode.com/svn/trunk/SmartGym/doc/Telas/Edição%20de%20cadastro.png edição_cadastro]
+[http://smartgym-bsi-2012-2.googlecode.com/svn/trunk/SmartGym/doc/Telas/Edição%20de%20cadastro.png]
 
 ===Daddos financeiros de aluno===
-[http://smartgym-bsi-2012-2.googlecode.com/svn/trunk/SmartGym/doc/Telas/Finanças%20Aluno.png finanças_aluno]
+[http://smartgym-bsi-2012-2.googlecode.com/svn/trunk/SmartGym/doc/Telas/Finanças%20Aluno.png]
 
 ===Autenticação===
-[http://smartgym-bsi-2012-2.googlecode.com/svn/trunk/SmartGym/doc/Telas/Login.png autenticação]
+[http://smartgym-bsi-2012-2.googlecode.com/svn/trunk/SmartGym/doc/Telas/Login.png]
 
 ===Principal===
-[http://smartgym-bsi-2012-2.googlecode.com/svn/trunk/SmartGym/doc/Telas/Principal.png main_window]
+[http://smartgym-bsi-2012-2.googlecode.com/svn/trunk/SmartGym/doc/Telas/Principal.png]
 
 ===Recuperação de senha===
-[http://smartgym-bsi-2012-2.googlecode.com/svn/trunk/SmartGym/doc/Telas/Recuperação%20de%20senha.png recuperação_senha]
+[http://smartgym-bsi-2012-2.googlecode.com/svn/trunk/SmartGym/doc/Telas/Recuperação%20de%20senha.png]

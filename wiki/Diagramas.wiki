@@ -7,3 +7,5 @@
 =Diagrama EER=
 [http://smartgym-bsi-2012-2.googlecode.com/svn/trunk/SmartGym/doc/EER%20Model.png]
 ----
+=Diagrama Classes=
+[http://smartgym-bsi-2012-2.googlecode.com/svn/trunk/SmartGym/doc/Class%20Diagram.jpg]
